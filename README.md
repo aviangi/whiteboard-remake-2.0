@@ -47,3 +47,8 @@
 
 * **Dual Light/Dark Theme Engine:** Fully integrated light and dark modes with persistent local storage preferences.
 * **Comprehensive Keyboard Shortcuts HUD:** Quick-action hotkeys (`V` for select, `P` for pen, `H` for highlighter, `E` for eraser, `T` for text, `I` for eyedropper, `Ctrl+Z`/`Ctrl+Y` for undo/redo, and `?` for help manual) to maximize productivity.
+
+### 7. Added security and memory and overflow management systems 
+
+**security and memory and overflow management systems:** added ID verification systems, added new security data systems and added overflow management systems to keep the application running smoothly without any leaks and crashes.
+
