@@ -1,5 +1,3 @@
-The Description of Whiteboard 2.0
-
 # The Description of Whiteboard 2.0
 
 **Whiteboard 2.0** is an advanced, high-performance, browser-based digital canvas designed for real-time collaboration, fluid multi-tool annotation, multimedia presentation, and robust session management. Built as a zero-dependency progressive web solution, it combines local-first responsiveness with decentralized peer-to-peer (P2P) networking.
