@@ -2,6 +2,7 @@
 
 **Whiteboard 2.0** is an advanced, high-performance, browser-based digital canvas designed for real-time collaboration, fluid multi-tool annotation, multimedia presentation, and robust session management. Built as a zero-dependency progressive web solution, it combines local-first responsiveness with decentralized peer-to-peer (P2P) networking.
 
+**Link to the application:** https://aviangi.github.io/whiteboard-remake-2.0/
 
 ## Key Features & Functional Modules
 
